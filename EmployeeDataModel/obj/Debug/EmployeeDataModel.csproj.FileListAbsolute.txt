@@ -1,0 +1,15 @@
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDataModel.dll.config
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDataModel.dll
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDataModel.pdb
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDBModel.dll
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EntityFramework.dll
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDBModel.pdb
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EmployeeDBModel.dll.config
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EntityFramework.xml
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\obj\Debug\EmployeeDataModel.csproj.CoreCompileInputs.cache
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\obj\Debug\EmployeeDataModel.csproj.CopyComplete
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\obj\Debug\EmployeeDataModel.dll
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\obj\Debug\EmployeeDataModel.pdb
+D:\MyFiles\Bindhu\Exam\EmployeeApp\EmployeeApp\EmployeeDataModel\obj\Debug\EmployeeDataModel.csprojAssemblyReference.cache
