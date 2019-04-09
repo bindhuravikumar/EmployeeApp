@@ -1,0 +1,50 @@
+
+.table-fixed thead {
+    float: left;
+    width: 100%;
+}
+
+.table-fixed tbody {
+    max-height: 500px;
+    float: left;
+    overflow: auto;
+    width: 100%;
+}
+
+td {
+    vertical-align: middle !important;
+}
+
+.width-200 {
+    width: 200px;
+}
+
+.width-555 {
+    width: 555px;
+}
+
+.height-51{
+    height:51px;
+}
+
+.rounded-circle {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    padding: 9px 0px 11px 10px;
+    background-color: white;
+}
+
+.main-container {
+    padding: 2% 5% 0 5%;
+}
+
+.btn-normal {
+    background-color: white;
+    border: 1px solid white;
+}
+
+    .btn-normal a {
+        color: #17a2b8;
+        text-decoration: none;
+    }
